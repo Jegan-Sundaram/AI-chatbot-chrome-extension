@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Analyse with AI - Gemini",
+  "version": "1.0",
+  "description": "Send selected text and URL directly to Gemini.",
+  "permissions": [
+    "contextMenus",
+    "storage",
+    "tabs",
+    "sidePanel",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "options_page": "options.html"
+}
