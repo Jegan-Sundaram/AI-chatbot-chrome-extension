@@ -7,4 +7,7 @@ For any queires in a website, you would have copied the URL and the content to w
 2. Right click on the extension and click on options.
 3. Generate a new API key here API-KEY(https://aistudio.google.com/app/api-keys) (Free for minimal usage BTW)
 4. Pasted it in the options tab and submit the key
-5. Now select a text on any website and right click on the selectec text and click on analyse selection with AI and how you can add more context or click on the send to AI, now this is it. You will receive the summary or the queryy from Gemini 2.5 Flask
+5. Now select a text on any website and right click on the selectec text and click on analyse selection with AI and how you can add more context or click on the send to AI, now this is it. You will receive the summary or the queryy from Gemini 2.5 Flash
+
+Result:
+<img width="2871" height="1621" alt="image" src="https://github.com/user-attachments/assets/632eb299-1a37-4ddd-9fd6-cf0a78a1cbb0" />
